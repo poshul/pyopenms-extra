@@ -4,7 +4,7 @@ Reading Raw MS data
 mzML files in memory
 ********************
 
-As discussed in the last section, the most straight forward way to load mass
+As discussed in the last section, the most straightforward way to load mass
 spectrometric data is using the ``MzMLFile`` class:
 
 .. code-block:: python
